@@ -1,1 +1,3 @@
-let umaString = 'Um texto'
+let umaString = 'Um "texto"'
+
+console.log(umaString)
